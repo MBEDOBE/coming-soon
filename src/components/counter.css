@@ -1,0 +1,26 @@
+
+.text-center {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+.h5 {
+  font-size: 5rem !important;
+}
+h1{
+  font-weight: 700!important;
+  color: #773d16!important;
+}
+h2{
+  color: azure;
+}
+.btn-contact{
+  font-size: 3rem;
+}
+.btn-outline-info {
+    color: #fff;
+    border-color: #7277ae;
+}
+.card{
+  background-color: #7277ae!important;
+  color: #fff;
+}
