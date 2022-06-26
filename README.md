@@ -32,15 +32,6 @@ $ npm install
 $ npm start
 ```
 
-### 4. Run Frontend
-
-```
-# open new terminal
-$ cd frontend
-$ npm install
-$ npm start
-```
-
 ## Support
 
 - Contact Me: [Mbedobe](mailto:reinittservices@gmail.com)
