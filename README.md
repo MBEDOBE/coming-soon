@@ -14,7 +14,7 @@ This a simple website built with React and Bootstrap
 
 ## Website
 
-- 👉 Heroku : [https://mern-eshopmbedobe.herokuapp.com](https://mern-eshopmbedobe.herokuapp.com)
+- 👉 Heroku : [https://danmbedobe.herokuapp.com](https://danmbedobe.herokuapp.com)
 
 ## Run Locally
 
