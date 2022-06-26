@@ -50,7 +50,7 @@ export default function Counter() {
   });
   return (
     <div>
-      <h1 className="m-5">Mbedobe's Portfolio Website </h1>
+      <h1 className="m-5">Mbedobe's Portfolio Website</h1>
       <h2 className="m-4">Coming Soon In </h2>
       <Row>
         <Col>
