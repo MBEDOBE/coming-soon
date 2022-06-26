@@ -2,9 +2,15 @@
 
 ![comingsoon](/public/images/img1.jpg)
 
-# React Project - Build Portfolio Website [2022]
+# React Project - Build a Count Down Timer for a website project [2022]
 
-Welcome to my React and Node project to build a fully-functional portfolio website.
+This a simple website built with React and Bootstrap
+
+# React Concepts Applied
+1. Hooks
+- useRef
+- useEffect
+- useState
 
 ## Website
 
