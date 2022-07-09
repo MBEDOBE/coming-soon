@@ -14,7 +14,7 @@ export default function Counter() {
   let timeInterval = useRef();
 
   const startTimer = () => {
-    const launchDate = new Date('July 9 2022 00:00:00').getTime();
+    const launchDate = new Date('July 30 2022 00:00:00').getTime();
 
     timeInterval = setInterval(() => {
       const currentDate = new Date().getTime();
